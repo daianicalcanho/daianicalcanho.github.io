@@ -1,0 +1,34 @@
+body{
+    background: #2ec3d6;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    color:#682f97;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+a{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    /*text-decoration: none; */
+    /* color:white; */
+    color: white;
+}
+
+hr{
+    height: 10px;
+ }
+
+ .vermelho{
+     background: red;
+ }
+
+ .azul{
+     background:blue;
+ }  
+
+ .branco{
+     background: white;
+ }
